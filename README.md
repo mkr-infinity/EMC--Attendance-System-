@@ -40,3 +40,10 @@ From Official Website. <br>
 And Done.
   
 5. Now Enjoy🥳🥳
+
+<br>
+
+# Files
+
+1. [attendance.py](https://github.com/mkr-infinity/EMC-Attendance-System/blob/main/attendance.py)
+2. [Anaconda](https://www.anaconda.com/download/success)
