@@ -27,4 +27,16 @@ This Is Demo Project.
 All Fies Are Uploaded.
 
 If U Want To See Our Project Then Process Is Simple.
-Follow This👇
+Follow These Steps👇
+<br>
+1. First Install [Anaconda](https://www.anaconda.com/download/success)🐍
+From Official Website. <br> 
+
+2. Then Run It 👇 
+
+3. Now Install opencv and tkinter in Anaconda and run my attendance.py file i have been provided in these files.
+  
+4. Just Make a folder named TrainingImageLabel.
+And Done.
+  
+5. Now Enjoy🥳🥳
