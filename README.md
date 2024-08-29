@@ -2,6 +2,7 @@
 ![Untitled design](https://github.com/user-attachments/assets/b316a2f5-d5a2-4f1e-8c2f-2e0750c0ccd7)
 An Open Source Attendance System For Students Written In Python For EMC- Project. 
 <br>
+
 School- GSBV-Ramesh Nagar
 Year(2024-25)<br>  
 
@@ -20,3 +21,10 @@ Our Team Members
 8. Jayant 
 ```
 
+
+This Is Demo Project.
+
+All Fies Are Uploaded.
+
+If U Want To See Our Project Then Process Is Simple.
+Follow This👇
