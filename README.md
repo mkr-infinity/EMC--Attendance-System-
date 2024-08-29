@@ -3,11 +3,11 @@
 An Open Source Attendance System For Students Written In Python For EMC- Project.
 
 Our Team Members
-1.  <br>
-2.   <br>
-3.   <br>
-4.    <br> 
-5.
-6.
-7.
+1. Anshu 
+2. Gaurav 
+3. Kaif  
+4. Mohit   
+5. Sanju 
+6. Satyam
+7. Jayant
 
