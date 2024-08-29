@@ -1,5 +1,5 @@
 # EMC-Attendance-System
-![SL-122222-54830-38](https://github.com/user-attachments/assets/642627cf-6bde-4891-8d0e-ec9e18f9a54c)
+![Untitled design](https://github.com/user-attachments/assets/b316a2f5-d5a2-4f1e-8c2f-2e0750c0ccd7)
 An Open Source Attendance System For Students Written In Python For EMC- Project.
 
 Our Team Members
