@@ -9,7 +9,7 @@ Year(2024-25)
 <br>  
 
 >[!NOTE]
-># Modern Worlds Problem.
+># Modern World Problem.
 >. Today's Education System And Offices Have Big issue Of Time Consuming During Attendance And Errors Occurred     During Digital Fingerprint Attendance Machines. <br>
 >. Manual Attendance Tracking Se Staff Ka Time Waste Hota hai , Aur Errors Bhi Hote Hai.
 
