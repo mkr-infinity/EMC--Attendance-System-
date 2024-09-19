@@ -1,4 +1,6 @@
 //these commands should be run in cmd with administrative permission.
+copy and paste these all pip install commands.
+
 
 pip install tk-tools
 pip install opencv-contrib-python
@@ -11,4 +13,7 @@ pip install pandas
 pip install times
 
 
-after all download then proceed next.
+//if all pip install completed successfully, then run the attendence.py file.
+//contact
+instagram- @mkr_infinity
+telegram-  @mkr_infinity
