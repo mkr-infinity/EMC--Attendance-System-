@@ -35,9 +35,9 @@ Our Team Members
 
 https://github.com/user-attachments/assets/65b7d797-6775-49fd-9b65-c3abbfd24bc4
 
-All Fies Are Uploaded.
 
-If U Want To See Our Project Then Process Is Simple.
+
+If U Want To See/Run Our Project Then Process Is Simple.
 Follow These Steps👇
 <br>
 1. First Install Python From Microsoft Store or Website. <br> 
@@ -45,35 +45,19 @@ Follow These Steps👇
 2. Then Run It 👇 
 
 3. Now Install all as shown in [requirements.txt](https://github.com/mkr-infinity/EMC-Attendance-System/blob/main/requirements.txt) in python terminal or in cmd directly.
-4. Open [attendence.py](https://github.com/mkr-infinity/EMC-Attendance-System/blob/main/attendance.py) file in python
-And Done.
-  
+4. Open [attendence.py](https://github.com/mkr-infinity/EMC-Attendance-System/blob/main/attendance.py) file in pythonIDLE and run it. <br>
+
 5. Now Enjoy🥳🥳
-
-<br>
-
-# Features To Be Added In Future
-
-1. Biometric Authentication.
-2. Personalized Mobile App For Admins.
-3. User Friendly Interface With Material UI.
-4. Automated Notification For Admins.
-5. Existing School Management System Ke Saath Integration.
-
-
-<br>
-
-# Benefits For Using Our System.
-
-1. Personalised Code For Everyone According To Theirs Needs.
-2. It Saves Staff Time And Decrease The Burden On Admin.
-3. Improves Attendance Tracking Accuracy.
-4. Valuable Inside For Data-Driven Decision Making.
-5. We Will Customise The Way Customer Wants
 
 <br>
 
 # Files
 
-1. [attendance.py](https://github.com/mkr-infinity/EMC-Attendance-System/blob/main/attendance.py)
-2. [Anaconda](https://www.anaconda.com/download/success)
+1. [attendance.py](https://github.com/mkr-infinity/EMC-Attendance-System/blob/main/attendance.py).
+2. [requirements.txt](https://github.com/mkr-infinity/EMC-Attendance-System/blob/main/requirements.txt).
+
+# For Fun I am Bio Student.
+# Project Not Selected For Seed Money.
+`
+Rejected At [19-09-2024]
+`
