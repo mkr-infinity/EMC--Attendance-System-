@@ -56,8 +56,8 @@ Follow These Steps👇
 1. [attendance.py](https://github.com/mkr-infinity/EMC-Attendance-System/blob/main/attendance.py).
 2. [requirements.txt](https://github.com/mkr-infinity/EMC-Attendance-System/blob/main/requirements.txt).
 
-# For Fun I am Bio Student.
-# Project Not Selected For Seed Money.
+# For Fun I am Bio🧬 Student🤣.
+# Project Not Selected For Seed Money😁.
 `
 Rejected At [19-09-2024]
 `
