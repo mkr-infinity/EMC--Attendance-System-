@@ -40,14 +40,12 @@ All Fies Are Uploaded.
 If U Want To See Our Project Then Process Is Simple.
 Follow These Steps👇
 <br>
-1. First Install [Anaconda](https://www.anaconda.com/download/success)🐍
-From Official Website. <br> 
+1. First Install Python From Microsoft Store or Website. <br> 
 
 2. Then Run It 👇 
 
-3. Now Install `OpenCV` and `Tkinter` in Anaconda and run my ``attendance.py`` file i have commited in files.
-  
-4. Just Make a folder named `TrainingImageLabel` 
+3. Now Install all as shown in [requirements.txt](https://github.com/mkr-infinity/EMC-Attendance-System/blob/main/requirements.txt) in python terminal or in cmd directly.
+4. Open [attendence.py](https://github.com/mkr-infinity/EMC-Attendance-System/blob/main/attendance.py) file in python
 And Done.
   
 5. Now Enjoy🥳🥳
