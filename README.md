@@ -31,7 +31,7 @@ Our Team Members
 ```
 
 
-# This Is A Demo Of The Project.
+# This Is A Short Recording Of This Project.
 
 https://github.com/user-attachments/assets/65b7d797-6775-49fd-9b65-c3abbfd24bc4
 
